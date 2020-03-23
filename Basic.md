@@ -6,7 +6,7 @@ NLP(자연어처리) : 머신이 인간의 언어를 이해하고 해석하는�
 텍스트 분석(텍스트 마이닝) : 비정형 텍스트에서 의미 있는 정보를 추출하는 것에 좀 더 중점을 두고 기술을 발전
 
 
-<<Text Analysis Type>>
+[Text Analysis Type]
     
     1. 텍스트 분류 (Text Classification) : Text Categorization 이라고도 하고 문서가 특정 분류 또는 카테고리에 속하는 것을 예측하는 기법. 예를 들어 신문기사를 카테고리별로 분류하거나 스팸 메일 검출 프로그램이 이에 속한다. 지도학습으로 볼 수 있다
     
@@ -17,7 +17,7 @@ NLP(자연어처리) : 머신이 인간의 언어를 이해하고 해석하는�
     4. 텍스트 군집화 (Clustering) 와 유사도 측정 : 비슷한 유형의 문서에 대해 군집화를 수행하는 기법. 텍스트 분류를 비지도 학습으로 수행하는 방법 중 하나로 볼 수 있고, 유사도 측정 역시 문서들간의 유사도를 측정하여 문서끼리 모을 수 있는 방법.
     
     
-<<Text Analysis Package>>
+[Text Analysis Package]
     
     1. NLTK 
     2. Gensim
@@ -25,14 +25,14 @@ NLP(자연어처리) : 머신이 인간의 언어를 이해하고 해석하는�
     4. 케라스, 파이토치, 텐서 플로우 .... 
     
     
-<<Text Analysis Process>>
+[Text Analysis Process]
     
     1. 텍스트 사전 준비작업 (전처리 작업)
     2. 피처 벡터화/추출
     3. ML모델 수립 및 학습
     
 
-<<Text Preprocessing>>
+[Text Preprocessing]
     
     1. 클렌징
     2. 토큰화 
